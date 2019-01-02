@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="desc">Image post</string>
+    <string name="input_comment">Comment</string>
+    <string name="set_location">Set Location</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="post">Post Your Photo</string>
+    <string name="use_ur_location">Use your current location</string>
+</resources>
